@@ -11,7 +11,7 @@ I enjoy learning. Literature, Languages, Mathematics, Physics, Astronomy... you 
 _
 
 #### Working on...
-[**codertype**](https://github.com/alejandrolaguna20/codertype) - A typing practice tool for developers, using real code from open-source repositories. Built with the [**TALL**](https://tallstack.dev/) stack.
+[**codertype**](https://github.com/alejandrolaguna20/codertype) - A typing practice tool for developers, using real code from open-source repositories. Built with Laravel.
 
 _
 
