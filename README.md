@@ -1,5 +1,5 @@
 # Alejandro Laguna
-*"The Universe is under no obligation to make sense to you."*
+*"The Universe is under no obligation to make sense to you."* — Neil deGrasse Tyson
 
 Just a curious human who codes | Student at the European Institute of Technology ([EPITECH](https://www.epitech.eu/))
 
