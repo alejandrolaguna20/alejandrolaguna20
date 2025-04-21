@@ -25,7 +25,7 @@ Crafting digital projects that inspire me, while exploring everything from books
 
 *"The Alchemist"* — Paulo Coelho (controversial but quotable)
 
-*"Foundation"* — Math predicts the fall of civilization (thanks, psychohistory).
+*"Foundation"* — Isaac Asimov (math predicts the fall of civilization (thanks, psychohistory))
 
 
 ## tech i use
