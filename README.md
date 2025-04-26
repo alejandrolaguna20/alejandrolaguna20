@@ -2,6 +2,11 @@
 
 Crafting digital projects that inspire me, while exploring everything from books and tea to space and science. First-year computer science student at the European Institute of Technology ([EPITECH](https://www.epitech.eu/))
 
+## say hi :)
+🌐 [alejandrolaguna.dev](https://alejandrolaguna.dev)  
+✉️ [alejandro.laguna@epitech.eu](mailto:alejandro.laguna@epitech.eu)  
+👔 [LinkedIn](https://www.linkedin.com/in/alejandro-laguna-939687278/) (for when I need to pretend I'm a serious adult)
+
 ## some cool quotes
 *"The Universe is under no obligation to make sense to you."* — Neil deGrasse Tyson
 
@@ -34,8 +39,3 @@ Languages: JavaScript/TypeScript, PHP, C, Python
 Tools: Git, Vim (no holy wars pls), Docker
 
 OS: (Arch) Linux (btw)
-
-## say hi :)
-🌐 [alejandrolaguna.dev](https://alejandrolaguna.dev)  
-✉️ [alejandro.laguna@epitech.eu](mailto:alejandro.laguna@epitech.eu)  
-👔 [LinkedIn](https://www.linkedin.com/in/alejandro-laguna-939687278/) (for when I need to pretend I'm a serious adult)
