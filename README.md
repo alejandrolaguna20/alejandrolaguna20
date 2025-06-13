@@ -34,8 +34,8 @@ Crafting digital projects that inspire me, while exploring everything from books
 
 
 ## tech i use
-Languages: JavaScript/TypeScript, PHP, C, Python
+Languages: Go, JavaScript/TypeScript, PHP, C, Python
 
-Tools: Git, Vim (no holy wars pls), Docker
+Tools: Git, Vim (no holy wars pls), Docker, Typst
 
 OS: (Arch) Linux (btw)
