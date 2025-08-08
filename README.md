@@ -1,41 +1,18 @@
 # Alejandro Laguna
+Second-year computer science student at the European Institute of Technology ([EPITECH](https://www.epitech.eu/)), still trying to figure out my place but enjoying the journey through systems programming, webdev and other fields.
 
-Crafting digital projects that inspire me, while exploring everything from books and tea to space and science. First-year computer science student at the European Institute of Technology ([EPITECH](https://www.epitech.eu/))
+## Tools I am currently enjoying
+Go, Typst, Astro
 
-## say hi :)
+**Languages:** C, Go, Python, JavaScript/TypeScript, PHP  
+**Frameworks:** Astro, React, Next.js, Vue, Laravel, FastAPI  
+**Databases:** PostgreSQL, MongoDB, ClickHouse  
+**Tools:** Git, Bash, Linux, Docker, AWS, Neovim, Typst
+
+## Things that matter to me
+My favorite writer is Isaac Asimov, my favorite piece of music is Spiegel im Spiegel, and my favorite book is The Witches by Roald Dahl. My favorite star is Vega because it was once our north star and will be again in about 12,000 years - something poetic about that cycle.
+
+## Contact me
 🌐 [alejandrolaguna.dev](https://alejandrolaguna.dev)  
 ✉️ [alejandro.laguna@epitech.eu](mailto:alejandro.laguna@epitech.eu)  
-👔 [LinkedIn](https://www.linkedin.com/in/alejandro-laguna-939687278/) (for when I need to pretend I'm a serious adult)
-
-## some cool quotes
-*"The Universe is under no obligation to make sense to you."* — Neil deGrasse Tyson
-
-*"Somewhere, something incredible is waiting to be known."* — Carl Sagan
-
-*"Hell is other people."* — Jean-Paul Sartre
-
-*"I don’t procrastinate. I wait until the last minute to do things because I will be older and therefore wiser."* — Unknown
-
-*"Do not take life too seriously. You will never get out of it alive."* — Elbert Hubbard
-
-
-## some cool books
-*"The Princess Bride"* — William Goldman (inconceivable!)
-
-*"The Hitchhiker’s Guide to the Galaxy"* — Douglas Adams (because 42)
-
-*"Cosmos"* — Carl Sagan (space is cool, okay?)
-
-*"Sapiens"* — Yuval Noah Harari (human history, but make it shady)
-
-*"The Alchemist"* — Paulo Coelho (controversial but quotable)
-
-*"Foundation"* — Isaac Asimov (math predicts the fall of civilization (thanks, psychohistory))
-
-
-## tech i use
-Languages: Go, JavaScript/TypeScript, PHP, C, Python
-
-Tools: Git, Vim (no holy wars pls), Docker, Typst
-
-OS: (Arch) Linux (btw)
+👔 [LinkedIn](https://www.linkedin.com/in/alejandro-laguna/)
